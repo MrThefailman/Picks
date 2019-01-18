@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Picks.web", "Picks.web\Picks.web.csproj", "{BB90B9AF-360E-49D2-9620-3BFEB4ABACAC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Picks.web", "Picks.web\Picks.web.csproj", "{BB90B9AF-360E-49D2-9620-3BFEB4ABACAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Picks.core", "Picks.core\Picks.core.csproj", "{D6F686C7-4049-47B6-9EE1-061578EE89A2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{BB90B9AF-360E-49D2-9620-3BFEB4ABACAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB90B9AF-360E-49D2-9620-3BFEB4ABACAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB90B9AF-360E-49D2-9620-3BFEB4ABACAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6F686C7-4049-47B6-9EE1-061578EE89A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6F686C7-4049-47B6-9EE1-061578EE89A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6F686C7-4049-47B6-9EE1-061578EE89A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6F686C7-4049-47B6-9EE1-061578EE89A2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
