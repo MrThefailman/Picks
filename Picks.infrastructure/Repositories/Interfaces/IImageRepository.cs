@@ -9,5 +9,6 @@ namespace Picks.infrastructure.Repositories.Interfaces
     public interface IImageRepository : IGenericRepository<Image>
     {
         Task<IEnumerable<Image>> Get();
+        Task<IEnumerable<Image>> GetByCategoryId(int categoryId);
     }
 }

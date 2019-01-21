@@ -1,4 +1,5 @@
-﻿using Picks.infrastructure.ViewModels;
+﻿using Picks.core.Entities;
+using Picks.infrastructure.ViewModels;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -9,7 +10,6 @@ namespace Picks.infrastructure.Services.Interfaces
     public interface ICategoryService
     {
         Task<IEnumerable<CategoryViewModel>> Get();
-        Task<CategoryViewModel> GetById(int id);
-        Task<int> Add(CategoryViewModel vm);
+        Task Add(Category vm);
     }
 }

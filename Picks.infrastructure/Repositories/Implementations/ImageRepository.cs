@@ -6,6 +6,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 using System.Threading.Tasks;
+using System.Linq;
 
 namespace Picks.infrastructure.Repositories.Implementations
 {
@@ -21,6 +22,11 @@ namespace Picks.infrastructure.Repositories.Implementations
         public async Task<IEnumerable<Image>> Get()
         {
             return await Find().ToListAsync();
+        }
+
+        public async Task<IEnumerable<Image>> GetByCategoryId(int categoryId)
+        {
+            return await Find().Where(x => x.CategoryId == categoryId).ToListAsync();
         }
     }
 }

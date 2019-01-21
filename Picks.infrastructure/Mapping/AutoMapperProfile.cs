@@ -1,9 +1,6 @@
 ﻿using AutoMapper;
 using Picks.core.Entities;
 using Picks.infrastructure.ViewModels;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace Picks.infrastructure.Mapping
 {

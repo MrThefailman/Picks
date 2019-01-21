@@ -8,7 +8,6 @@ namespace Picks.infrastructure.Repositories.Interfaces
 {
     public interface ICategoryRepository : IGenericRepository<Category>
     {
-        Task<Category> GetById(int id);
         Task<IEnumerable<Category>> Get();
     }
 }
