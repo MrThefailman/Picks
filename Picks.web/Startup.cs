@@ -50,7 +50,6 @@ namespace Picks.web
             }
             else
             {
-                app.UseExceptionHandler("/Home/Error");
                 app.UseHsts();
             }
 
