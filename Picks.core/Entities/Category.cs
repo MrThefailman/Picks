@@ -8,6 +8,6 @@ namespace Picks.core.Entities
     public class Category : BaseEntity
     {
         public string Name { get; set; }
-        public ICollection<Image> Images { get; set; }
+        public virtual ICollection<Image> Images { get; set; }
     }
 }

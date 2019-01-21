@@ -1,0 +1,12 @@
+C:\Users\Administratör\source\repos\Picks\Picks.infrastructure\bin\Debug\netcoreapp2.1\Picks.infrastructure.deps.json
+C:\Users\Administratör\source\repos\Picks\Picks.infrastructure\bin\Debug\netcoreapp2.1\Picks.infrastructure.dll
+C:\Users\Administratör\source\repos\Picks\Picks.infrastructure\bin\Debug\netcoreapp2.1\Picks.infrastructure.pdb
+C:\Users\Administratör\source\repos\Picks\Picks.infrastructure\bin\Debug\netcoreapp2.1\Picks.core.dll
+C:\Users\Administratör\source\repos\Picks\Picks.infrastructure\bin\Debug\netcoreapp2.1\Picks.core.pdb
+C:\Users\Administratör\source\repos\Picks\Picks.infrastructure\obj\Debug\netcoreapp2.1\Picks.infrastructure.csprojAssemblyReference.cache
+C:\Users\Administratör\source\repos\Picks\Picks.infrastructure\obj\Debug\netcoreapp2.1\Picks.infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Administratör\source\repos\Picks\Picks.infrastructure\obj\Debug\netcoreapp2.1\Picks.infrastructure.AssemblyInfoInputs.cache
+C:\Users\Administratör\source\repos\Picks\Picks.infrastructure\obj\Debug\netcoreapp2.1\Picks.infrastructure.AssemblyInfo.cs
+C:\Users\Administratör\source\repos\Picks\Picks.infrastructure\obj\Debug\netcoreapp2.1\Picks.infrastructure.csproj.CopyComplete
+C:\Users\Administratör\source\repos\Picks\Picks.infrastructure\obj\Debug\netcoreapp2.1\Picks.infrastructure.dll
+C:\Users\Administratör\source\repos\Picks\Picks.infrastructure\obj\Debug\netcoreapp2.1\Picks.infrastructure.pdb

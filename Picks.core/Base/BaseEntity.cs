@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Picks.core.Base
 {
-    public class BaseEntity
+    public class BaseEntity : IEntity
     {
         public int Id { get; set; }
         public DateTime Created { get; set; }
