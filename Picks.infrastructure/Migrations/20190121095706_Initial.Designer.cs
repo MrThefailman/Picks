@@ -10,8 +10,8 @@ using Picks.infrastructure.Data;
 namespace Picks.infrastructure.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20190121084643_initial")]
-    partial class initial
+    [Migration("20190121095706_Initial")]
+    partial class Initial
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
