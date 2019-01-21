@@ -25,3 +25,8 @@ C:\Users\Administratör\source\repos\Picks\Picks.web\obj\Debug\netcoreapp2.1\Pic
 C:\Users\Administratör\source\repos\Picks\Picks.web\obj\Debug\netcoreapp2.1\Picks.web.dll
 C:\Users\Administratör\source\repos\Picks\Picks.web\obj\Debug\netcoreapp2.1\Picks.web.pdb
 C:\Users\Administratör\source\repos\Picks\Picks.web\obj\Debug\netcoreapp2.1\Picks.web.csproj.CopyComplete
+C:\Users\Administratör\source\repos\Picks\Picks.web\bin\Debug\netcoreapp2.1\Picks.core.dll
+C:\Users\Administratör\source\repos\Picks\Picks.web\bin\Debug\netcoreapp2.1\Picks.infrastructure.dll
+C:\Users\Administratör\source\repos\Picks\Picks.web\bin\Debug\netcoreapp2.1\Picks.infrastructure.pdb
+C:\Users\Administratör\source\repos\Picks\Picks.web\bin\Debug\netcoreapp2.1\Picks.core.pdb
+C:\Users\Administratör\source\repos\Picks\Picks.web\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
