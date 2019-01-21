@@ -6,4 +6,3 @@ C:\Users\Administratör\source\repos\Picks\Picks.core\obj\Debug\netcoreapp2.1\Pi
 C:\Users\Administratör\source\repos\Picks\Picks.core\obj\Debug\netcoreapp2.1\Picks.core.AssemblyInfo.cs
 C:\Users\Administratör\source\repos\Picks\Picks.core\obj\Debug\netcoreapp2.1\Picks.core.dll
 C:\Users\Administratör\source\repos\Picks\Picks.core\obj\Debug\netcoreapp2.1\Picks.core.pdb
-C:\Users\Administratör\source\repos\Picks\Picks.core\obj\Debug\netcoreapp2.1\Picks.core.csprojAssemblyReference.cache
