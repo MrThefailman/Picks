@@ -218,6 +218,8 @@
       },
       "Picks.infrastructure/1.0.0": {
         "dependencies": {
+          "Microsoft.EntityFrameworkCore": "2.1.1",
+          "Microsoft.EntityFrameworkCore.SqlServer": "2.1.1",
           "Picks.core": "1.0.0"
         },
         "runtime": {
